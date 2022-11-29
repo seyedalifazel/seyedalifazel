@@ -1,7 +1,6 @@
 ### Hi, I am @seyedalifazel.👋 An eager beaver boy who loves programming,financial markets trading, and new experiences.⚡
-In the world of programming, I preferred Laravel and Kotlin. But no matter what program we are going to develop only gives me enough time to become an expert in your subject and start. I faced investment challenges, addressed stock investment issues and various analyzes, and overcame them well. So, I am being a stock market analyst and forex trader, I just need a chart with my tools.
-## I’m currently working on Pine script strategies
-[Pine script strategies](http://localhost/)
+In the world of programming, I preferred Laravel and Kotlin. But no matter what program we are going to develop only gives me enough time to be ready for new challenges and let's start. I faced investment challenges, addressed stock investment issues and various analyzes, and overcame them well. So, I am being a stock market analyst and forex trader, I just need a chart with my tools.
+
 ## 📫 How to reach me:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sydalifazel@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seyedalifazel)
